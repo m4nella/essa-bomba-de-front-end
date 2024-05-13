@@ -1,0 +1,14 @@
+.conteiner{
+    background-color: var(--cinza-claro);
+    width: 320px;
+    height: 500px;
+    display:flex;
+    padding: 20px;   
+    justify-content: space-between; 
+}
+figure{
+     display: flex;
+     flex-wrap: wrap;
+     background-color: var(--cinza-claro);
+     padding:10px;
+}
